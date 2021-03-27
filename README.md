@@ -8,6 +8,8 @@
 
 🌱 I’m currently learning Livewire and Alpine JS (it's so cool!)
 
+🖋 You can find the list of my blog posts and current projects here: [Posts board](https://github.com/users/axeldotdev/projects/2) and [Projects board](https://github.com/users/axeldotdev/projects/1)
+
 🌍 You can find me on: [Behance](https://www.behance.net/axeldotdev), [Github](https://github.com/axeldotdev), [Linkedin](https://www.linkedin.com/in/axelcharpentier0/), [My blog](https://world.hey.com/axel.charpentier) and [Twitter](https://twitter.com/axeldotdev)
 
 📫 How to reach me: [Twitter](https://twitter.com/axeldotdev) or [Linkedin](https://www.linkedin.com/in/axelcharpentier0/) or my email address shown on my profile.
