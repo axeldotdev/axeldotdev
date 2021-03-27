@@ -1,8 +1,14 @@
 ### Hi there 👋
 
+👨‍💻 Web developer @Ayctor, @laravel artisan and cine lover. 🎬
+
+---
+
 🔭 I’m currently working on some cool open-source packages like [laravel-airtable](https://github.com/axeldotdev/laravel-airtable) and [laravel-starter](https://github.com/axeldotdev/laravel-starter) and a big project that I will talk about in a few weeks!
 
 💼 I'm a developer at the digital agency [Ayctor](https://ayctor.com) in Paris. But in teleworking due to the health situation.
+
+👨‍💻 I use daily: `.php`, `.blade.php`, `.js`, `.vue`, `.css`, `.svg`, `.json`
 
 🌱 I’m currently learning Livewire and Alpine JS (it's so cool!)
 
