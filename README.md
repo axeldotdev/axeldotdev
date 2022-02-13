@@ -8,6 +8,8 @@
 
 🌱 I’m currently learning Livewire and Alpine JS (it's so cool!) and also Docker!
 
+💻 You can find my current OS repositories tasks on this project : [Tasks](https://github.com/users/axeldotdev/projects/6)
+
 🌍 You can find me on: [Github](https://github.com/axeldotdev), [Linkedin](https://www.linkedin.com/in/axelcharpentier0/) and [Twitter](https://twitter.com/axeldotdev)
 
 📫 How to reach me: [Twitter](https://twitter.com/axeldotdev) or [Linkedin](https://www.linkedin.com/in/axelcharpentier0/) or my email address shown on my profile.
