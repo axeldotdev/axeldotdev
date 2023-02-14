@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on some cool open-source packages!
+🔭 I’m currently working on a big laravel secret project and I try to work on some cool open-source packages when I have the time!
 
 💼 I'm a web developer from Paris, but I love teleworking!
 
