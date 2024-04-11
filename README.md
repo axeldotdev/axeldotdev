@@ -6,9 +6,9 @@
 
 👨‍💻 I use daily: `.php`, `.blade.php`, `.js`, `.vue`, `.css`, `.svg`, `.json`
 
-🌱 I’m currently learning Livewire and Alpine JS (it's so cool!) and also Docker!
+🌱 I love Livewire and Alpine JS (it's so cool!) and also all the Laravel and Spatie packages!
 
-🌍 You can find me on: [Github](https://github.com/axeldotdev), [Instagram](https://instagram.com/axeldotdev), [Linkedin](https://www.linkedin.com/in/axeldotdev/) and [Twitter](https://twitter.com/axeldotdev)
+🌍 You can find me on: [Github](https://github.com/axeldotdev), [Linkedin](https://www.linkedin.com/in/axeldotdev/) and [Twitter](https://twitter.com/axeldotdev)
 
 📫 How to reach me: [Twitter](https://twitter.com/axeldotdev) or [Linkedin](https://www.linkedin.com/in/axeldotdev/) or my email address shown on my profile.
 
